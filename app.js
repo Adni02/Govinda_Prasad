@@ -330,13 +330,9 @@ function createFooter() {
       }
 
       if (buttonsEl) {
-        if (basics.email) {
-          buttonsEl.appendChild(el("a", { href: `mailto:${basics.email}`, class: "btn" }, ["📧 Email"]));
-        }
-        const linkedIn = asArray(basics.profiles).find(p => p?.network === "LinkedIn");
-        if (linkedIn?.url) {
-          buttonsEl.appendChild(el("a", { href: linkedIn.url, target: "_blank", rel: "noreferrer", class: "btn btn-secondary" }, ["in LinkedIn"]));
-        }
+        buttonsEl.appendChild(el("a", { href: "./contact.html", class: "btn" }, ["Contact Me"]));
+        buttonsEl.appendChild(el("a", { href: "./experience.html", class: "btn btn-secondary" }, ["View Projects"]));
+        buttonsEl.appendChild(el("a", { href: "./cv.json", class: "btn btn-secondary", download: "Govinda_Prasad_CV.json" }, ["Download CV"]));
       }
 
       if (highlightsEl) {
