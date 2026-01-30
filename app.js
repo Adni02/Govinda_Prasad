@@ -72,7 +72,7 @@ function renderEducation(container, education) {
   const eduEntries = [
     {
       institution: "Copenhagen Business School",
-      degree: "Master of Business Administration (MBA), Finance",
+      degree: "Master of Business Administration (MBA), Finance, General",
       dates: "Oct 2020 – Sep 2021",
       grade: null,
       description: "Copenhagen Business School is a triple-accredited full-time MBA, ranked #24 globally by QS Top MBA (2021). The class consists of 43 talented and ambitious individuals from 19 nationalities.",
@@ -326,7 +326,7 @@ function createFooter() {
       if (nameEl) nameEl.textContent = basics.name || "Your Name";
       
       if (taglineEl) {
-        taglineEl.textContent = cv.heroTagline ||cv.summary || "";
+        taglineEl.textContent = cv.summary || "";
       }
 
       if (buttonsEl) {
