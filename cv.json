@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "GOVINDA PRASAD",
+    "email": "adnivog02@gmail.com",
+    "phone": "+4581934036",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/govindaprasad/"
+      }
+    ]
+  },
+  "summary": "Project Manager with 10+ years of experience delivering digital platforms, product solutions, and data-driven business transformation across global teams. Proven at turning complex business needs into scalable systems through automation, analytics, and strong stakeholder alignment. After a short career break focused on upskilling and market readiness, I am motivated to return to a high-impact role where I can help teams build better products, improve execution, and drive real business results.",
+  "coreSkills": [
+    "Product Management",
+    "Technical Project Management",
+    "Business Intelligence",
+    "Data Analysis",
+    "Stakeholder Management",
+    "Agile & Scrum",
+    "SDLC",
+    "Requirements Gathering",
+    "Process Automation",
+    "Data Governance",
+    "Change Management",
+    "Digital Transformation",
+    "Road mapping",
+    "KPI & OKR Tracking",
+    "Risk Management",
+    "Vendor Management"
+  ],
+  "technicalSkills": [
+    "AI & Automation: RAG, Prompt Engineering, Azure AI Foundry, Power Platform, n8n.",
+    "Analytics & Visualization: Power BI, Tableau, Looker Studio.",
+    "Cloud & Integration: Azure, Azure Functions, Cloud Run, GCP.",
+    "ERP Systems: Navision, SAP, Business Central.",
+    "Languages & Data: SQL, Python, Power Query."
+  ],
+  "experience": [
+    {
+      "title": "Project Manager",
+      "company": "Story House Egmont",
+      "location": "Copenhagen, Denmark",
+      "dates": "Jan 2022 - Mar 2024",
+      "highlights": [
+        "Led cross-functional digital transformation programs across global teams, delivering scalable platforms, faster processes, and multi-million DKK business impact.",
+        "Owned the end-to-end delivery of data and automation initiatives by translating business needs into technical solutions and driving adoption across stakeholders.",
+        "Defined and implemented data governance and data quality standards for the department, creating a reliable foundation for analytics and reporting.",
+        "Modernized legacy operations by migrating Excel-based workflows into centralized SQL and data-warehouse-ready environments, improving speed, accuracy, and system integration.",
+        "Built automation and workflow platforms using Power Apps, Power Automate, Python, and Azure DevOps, reducing turnaround time from days to minutes and increasing team efficiency by 40%.",
+        "Delivered executive-level Power BI dashboards that provided real-time visibility into financial, operational, and sustainability performance.",
+        "Acted as the data and reporting owner for corporate sustainability, supporting CO₂ and material usage reporting for CSR and regulatory needs."
+      ]
+    },
+    {
+      "title": "Strategy Consultant",
+      "company": "SAS Institute",
+      "location": "Copenhagen, Denmark",
+      "dates": "Apr - Sep 2021",
+      "highlights": [
+        "Led a consulting project for a SaaS procurement and fraud-detection product, owning the strategic implementation and go-to-market planning for the Danish public sector.",
+        "Analysed product readiness, customer needs, regulatory context, and competitive landscape using structured strategy and market analysis frameworks.",
+        "Gathered and translated stakeholder inputs from internal teams, customers, and competitors into clear product, market, and launch requirements.",
+        "Defined product positioning, target segments, pricing approach, partnership model, and success metrics to support a scalable market rollout.",
+        "Project awarded the highest academic grade for quality, business value, and execution."
+      ]
+    },
+    {
+      "title": "Operation Manager",
+      "company": "Indian Army",
+      "location": "Delhi, India",
+      "dates": "2009 - 2019",
+      "highlights": [
+        "Led large cross-functional teams in high-risk and fast-changing environments, ensuring disciplined execution, clear priorities, and on-time delivery of critical missions.",
+        "Owned end-to-end operations, logistics, and financial planning for a 100+ member organization, including budget control, asset management, and compliance-based reporting.",
+        "Coordinated multiple internal units and external agencies to deliver complex, multi-stakeholder programs with strong alignment and risk control.",
+        "Led the technical validation and rollout of a large-scale defence system, managing vendor engagement, service agreements, and operational readiness.",
+        "Built strong performance and resilience through structured training, process standards, and continuous monitoring.",
+        "Recognized with a national gallantry award for leadership, execution excellence, and impact under pressure."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "description": "MBA(Finance), Copenhagen Business School, Denmark\t\t\t\t\t    2021"
+    },
+    {
+      "description": "Bachelor in Engineering (Mechanical), University of Pune, India\t\t\t\t    2009"
+    }
+  ],
+  "certifications": [
+    "Azure AI Fundamentals",
+    "Azure Data Fundamentals",
+    "Power BI Data Analyst",
+    "PRINCE2",
+    "Certified Scrum Master",
+    "Certified Scrum Product Owner."
+  ],
+  "awards": [
+    {
+      "description": "Recognized with a national gallantry award for leadership, execution excellence, and impact under pressure."
+    }
+  ]
+}
